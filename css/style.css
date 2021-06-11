@@ -1,3 +1,42 @@
-.navbar {
-    background-color: red;
+body{
+    font: 20px Arial, sans-serif;
+}
+
+header {
+    background-color: #5fb404;
+    height: 8rem;
+}
+
+.quem-somos {
+    color: grey;
+    font-size: 20px;
+    border-bottom: 2px #1298ff dashed;
+}
+
+.quem-somos img {
+    margin-bottom: 30px;
+}
+
+.servicos {
+    color: grey;
+    font-size: 20px;
+}
+
+.servicos p {
+    margin-top: 10px;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #ffa012;
+    color: white;
+}
+
+.bg-footer{
+    background-color: grey;
+    color: white;
 }
